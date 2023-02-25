@@ -1,0 +1,360 @@
+body{
+    background-color: rgb(86, 98, 124);
+}
+.main1{
+    background-color: white;
+    height:110px;
+    width: 1250px;
+    position: absolute;
+    top:35px;
+    left: 135px;
+}
+.main2{
+    position:absolute;
+    
+    top:5px;
+    left:300px;
+}
+.main2{
+    position:absolute;
+    
+    top:5px;
+    left:300px;
+} 
+.main1 p{
+    color: rgb(86, 98, 124);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 435px;
+    top: 12px;
+}
+.main3{
+    position: absolute;
+    left: 700px;;
+    top:25px;
+}
+.main4{
+    position: absolute;
+    top: 300px;
+    left: 225px;
+    color:white;
+    font-size: 45px;
+    font-family: Sitka Text Semibold;
+}
+.main5{
+    position: absolute;
+    top:600px;
+    width:1250px;
+    height:350px;
+    left:135px;
+    background: #444a59;
+   
+}
+.main6{
+    position: absolute;
+    min-height: 1px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.main61{
+    
+    color:rgba(255,255,255,.5);
+    height:288px;
+    width:550px;
+    color: rgba(255,255,255,.5);
+    height: 350px;
+    padding: 0 0 0 50px;  
+}
+.main61 a:visited{
+    color:rgba(255,255,255,.5);
+    font-family: arial;
+    text-decoration: none;
+}
+.main61 a:link{
+    color:rgba(255,255,255,.5);
+    font-family: arial;
+    text-decoration: none;
+}
+.main61 button{
+    background-color:rgba(172, 152, 196, 0.5);
+    color:rgba(255,255,255,.5);
+    height:30px;
+    width:200px;
+    border:none;
+}
+
+
+.main71 button{
+    background-color:rgba(172, 152, 196, 0.5);
+    color:rgba(255,255,255,.5);
+    height:30px;
+    width:200px;
+    border:none;
+}
+.main7{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #3a394c;
+    position:absolute;
+  
+    height: 350px;
+    color:rgba(255,255,255,.5);
+    width: 300px;
+    left:600px;
+    padding: 0 0 0 50px;
+    
+}
+.main71 a:link{
+    color:rgba(255,255,255,.5);
+    text-decoration: none;
+}
+.main71 a:visited{
+    color:rgba(255,255,255,.5);
+    text-decoration: none;
+}
+
+
+.main8{
+    position: absolute;
+    left:350px;
+    color:rgba(255,255,255,.5);
+    padding: 0 0 0 50px;
+    height:350px;
+    top:0px;   
+    width:245px;
+}
+.main81 button{
+    background-color:rgba(172, 152, 196, 0.5);
+    color:rgba(255,255,255,.5);
+    height:30px;
+    width:200px;
+    border:none;
+}
+.main81 a:link{
+    color:rgba(255,255,255,.5);
+    text-decoration: none;
+}
+.main81 a:visited{
+    color:rgba(255,255,255,.5);
+    text-decoration: none;
+}
+.main9{
+    background-color:rgb(231, 218, 218);
+    
+    top: 300px;
+    height: 80px;
+    width:1240px;
+    position: absolute;
+    left:130px;
+    padding:5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main10{
+    background-color: white;
+   
+    height: 1350px;
+    width:1050px;
+    padding:100px;
+    position: absolute;
+    left: 130px;
+    top:390px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main1001{
+    background-color: white;
+   
+    height: 1200px;
+    width:1050px;
+    padding:100px;
+    position: absolute;
+    left: 130px;
+    top:390px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main1001 a{
+    text-decoration: none;
+}
+.main102{
+    position: relative;
+    top:20px;
+}
+
+.main101{
+    position: relative;
+    top:6px;
+    background-color: #cac3c3;
+    padding: 2px;
+}
+.main102 a{
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: 10px;
+    left:15px;
+    
+}
+.main102 a:hover{
+    color:blue;
+
+}
+.main1021{
+    background-color: #e7e3e3; 
+    height: 40px; 
+}
+.main1022{
+    background-color: #faf6f6; 
+    height: 40px;
+}
+.main111{
+    position: relative;
+    left:50px;
+    
+}
+.main111 a{
+    text-decoration: none;
+}
+.main111 a:link{
+    text-decoration: none;
+    color:rgb(64, 61, 61);
+}
+
+.main111 a:visited{
+    text-decoration: none;
+    color:blue;
+}
+.main111 a:hover{
+    text-decoration: none;  
+    color:rgb(5, 5, 69)
+}.main10100 a{
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main1010{
+    background-color: white;
+
+    height: 300px;
+    width:1050px;
+    padding:100px;
+    position: absolute;
+    left: 130px;
+    top:390px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main999
+{
+    position: absolute;
+    top:400px;
+    left:800px;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 200px;
+    width:500px;
+}
+.main9991{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aquamarine;
+    position: relative;
+    top:10px;
+}
+
+
+
+#navbar ul{
+    display: none;
+    background-color: #34334b;
+    position: absolute; top: 100%;
+
+    padding: 15px;
+    height: 130px;
+    
+    }
+    #navbar li:hover ul { display: block; }
+    #navbar, #navbar ul{
+    margin: 0; padding: 5px;
+    list-style-type: none;
+    }
+    #navbar {
+    height: 65px;
+    background-color: #34334b;
+    padding-left: 25px; min-width:
+    1220px;
+    position: absolute;
+    top: 145px;
+    left:135px;
+    }
+    #navbar li a:hover{
+        text-decoration: 2px solid red;
+    }
+    #navbar li {
+    float: left;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 25px;
+    text-decoration: none;    
+    }
+    #navbar li a {
+    display: block;
+   
+    width: 100px; color: #b9b3b3;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    }
+    #navbar li a:hover {
+        color:white;
+        text-decoration: underline;
+    }
+    #navbar ul li { float: none; }
+    #navbar li:hover { background-color:#34334b;       
+    }
+
+    #navbar ul li:hover { background-color: #666;
+        height: 25px;
+    }
+    #navbar #navbar1 {
+        float: right;    
+        color: white;
+    }
+
+
+    .main9992 {
+        position:relative;
+        top:10px;
+        left:170px;
+        width: 6.5em;
+        height: 2.3em;
+        margin: 0.5em;
+        background: rgba(49, 52, 65, 0.377);
+        color: white;
+        border: none;
+        border-radius: 0.625em;
+        font-size: 20px;
+        font-weight: bold;
+        cursor: pointer;
+        position: relative;
+        z-index: 1;
+        overflow: hidden;
+       }
+       
+       .main9992:hover {
+        color: black;
+       }
+       
+       .main9992:after {
+        content: "";
+        background: white;
+        position: absolute;
+        z-index: -1;
+        left: -20%;
+        right: -20%;
+        top: 0;
+        bottom: 0;
+        transform: skewX(-45deg) scale(0, 1);
+        transition: all 0.5s;
+       }
+       
+       .main9992:hover:after {
+        transform: skewX(-45deg) scale(1, 1);
+        -webkit-transition: all 0.5s;
+        transition: all 0.5s;
+       }
+    

@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>User Login</title>
+        <link rel="stylesheet" href="extra.css">
+        <script>
+
+            function kai()
+            {
+                var email = document.getElementById("uname").value;
+                var password = document.getElementById("psw").value;
+                
+                if(password=="")
+                {
+                    alert("Invalid information");
+                 }
+                 else if(email=="")
+                 {
+                    alert("Invalid information");
+                 }
+                 else if(email=="" && password=="")
+                 {
+                    alert("Invalid information");
+                 }
+                 else
+                 {
+                    window.open("mainpage3.html");
+                 }
+            }
+            function fai()
+            {
+                window.open("mainlogin.html")
+            }
+            
+        
+            </script>
+    </head>
+    <body>
+    <form class="log1">
+     <h1><center>User Login </center> </h1>
+     <hr>      
+    <div class="imgcontainer">
+       <img src="https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg" alt="Avatar" class="avatar">
+        </div>
+        <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username" id="uname" name="uname" required><br>
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" id="psw" name="psw" required><br><br>
+            <button type="submit" target="_self"  onclick="kai()">Login</button>
+            <label>
+                <input type="checkbox" checked>Remember me
+            </label>
+            <hr class="main99">
+        </div>
+            <div class="container" background-color="#E0FFFF">
+                <button type="button" class="cancelbtn" id="cancelbtn" onclick="fai()">Cancel</button>
+                <span class="psw"> Forgot <a href="#">Password?</a></span> 
+            </div>
+            </form>
+            
+            </body
+</html>
